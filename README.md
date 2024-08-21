@@ -14,9 +14,15 @@ You can upload the Python libraries with using "requirements.txt" file.<br>
 ```
 pip3 install -r requirements.txt
 ```
-You could get an error during install PyQt5 and PySwd. So here their the installition codes.
+You could get an error during install PyQt5 and PySwd. So here their the installition codes.<br>
 **For PyQt5:**
 ```
 sudo apt install python3-pyqt5
 sudo apt install pyqt5-dev-tools
+```
+**For PySwd:**
+```
+git clone https://github.com/cortexm/pyswd.git
+cd pyswd
+sudo python3 setup.py install
 ```
