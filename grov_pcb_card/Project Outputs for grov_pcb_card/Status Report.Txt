@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [grov_pcb_card.PcbDoc]
+   Generated File[grov_pcb_card.TXT]
+   Generated File[grov_pcb_card.LDP]
+   Generated File[grov_pcb_card.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 14:12:30 On 21.08.2024
