@@ -8,7 +8,7 @@ MPU6050_tockn.h: https://github.com/tockn/MPU6050_tockn<br>
 MadgwickAHRS.h: https://github.com/arduino-libraries/MadgwickAHRS/<br>
 Base.h: https://github.com/viyalab/Base100<br>
 
-<h3>Python Libraries:</h3>h3>
+Python Libraries:
 You can upload the Python libraries with using "requirements.txt" file.
 ```
 pip3 install -r requirements.txt
