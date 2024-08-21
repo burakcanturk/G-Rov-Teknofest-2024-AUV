@@ -21,7 +21,7 @@ sudo apt install python3-pyqt5
 sudo apt install pyqt5-dev-tools
 ```
 **For PySwd:**
-```
+```terminal
 git clone https://github.com/cortexm/pyswd.git
 cd pyswd
 sudo python3 setup.py install
