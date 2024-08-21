@@ -4,9 +4,12 @@ This is a team named "G-Rov"'s auv (autonomous underwater vehicle) remote operat
 
 <h3>Arduino IDE Libraries:</h3>
 <b>SerialTransfer.h:</b> https://github.com/PowerBroker2/SerialTransfer<br>
-MPU6050_tockn.h: https://github.com/tockn/MPU6050_tockn<br>
-MadgwickAHRS.h* https://github.com/arduino-libraries/MadgwickAHRS/<br>
-Base.h: https://github.com/viyalab/Base100<br>
+<b>MPU6050_tockn.h:</b> https://github.com/tockn/MPU6050_tockn<br>
+<b>MadgwickAHRS.h:</b> https://github.com/arduino-libraries/MadgwickAHRS/<br>
+<b>Base.h:</b> https://github.com/viyalab/Base100<br>
 
 <h3>Python Libraries:</h3>h3>
 You can upload the Python libraries with using "requirements.txt" file.
+```
+pip3 install -r requirements.txt
+```
