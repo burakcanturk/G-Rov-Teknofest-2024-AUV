@@ -26,3 +26,5 @@ git clone https://github.com/cortexm/pyswd.git
 cd pyswd
 sudo python3 setup.py install
 ```
+
+<img src="grov_interface/grov_pcb_card_front.png"" width="300"/>
