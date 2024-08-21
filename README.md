@@ -5,5 +5,5 @@ This is a team named "G-Rov"'s auv (autonomous underwater vehicle) remote operat
 Arduino IDE Libraries:<br>
 **SerialTransfer.h:** https://github.com/PowerBroker2/SerialTransfer<br>
 **MPU6050_tockn.h:** https://github.com/tockn/MPU6050_tockn<br>
-**MadgwickAHRS.h:** https://github.com/arduino-libraries/MadgwickAHRS/
-**Base.h:** https://github.com/viyalab/Base100
+**MadgwickAHRS.h:** https://github.com/arduino-libraries/MadgwickAHRS/<br>
+**Base.h:** https://github.com/viyalab/Base100<br>
