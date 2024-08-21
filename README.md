@@ -27,4 +27,4 @@ cd pyswd
 sudo python3 setup.py install
 ```
 
-<img src="grov_interface/grov_pcb_card_front.png" width="300"/>
+<img src="G-Rov-Teknofest-2024-AUV/grov_pcb_card_front.png" width="300"/>
