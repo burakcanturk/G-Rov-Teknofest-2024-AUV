@@ -241,23 +241,23 @@ class MainWindow(QMainWindow):
 
     def setRolicamAngle(self, val):
         self.RolicamAngleSliderTxt.setText(str(val))
-        self.grov[self.com_prtcl].rolicamAngleSet(val)
+        self.grov[self.com_prtcl].setRolicamAngle(val)
         self.rolicam_angle = val
 
     def setRolicamDim(self, val):
         if self.lanternOn:
-            self.grov[self.com_prtcl].rolicamDimSet(val)
+            self.grov[self.com_prtcl].setRolicamDim(val)
         else:
-            self.grov[self.com_prtcl].rolicamDimSet(0)
+            self.grov[self.com_prtcl].setRolicamDim(0)
         self.RolicamDimLabel.setText(str(val))
         self.rolicam_dim = val
 
     def setLantern(self, checked):
         self.lanternOn = bool(checked)
         if not self.lanternOn:
-            self.grov[self.com_prtcl].rolicamDimSet(0)
+            self.grov[self.com_prtcl].setRolicamDim(0)
         else:
-            self.grov[self.com_prtcl].rolicamDimSet(self.rolicam_dim)
+            self.grov[self.com_prtcl].setRolicamDim(self.rolicam_dim)
         self.RolicamDimSlider.setEnabled(self.lanternOn)
 
     def setRolicamSpeed(self, val):
@@ -265,16 +265,16 @@ class MainWindow(QMainWindow):
         self.grov[self.com_prtcl].rolicamSpeedSet(val)
 
     def rolicamResetOn(self):
-        self.grov[self.com_prtcl].rolicamResetSet(1)
+        self.grov[self.com_prtcl].setRolicamReset(1)
 
     def rolicamResetOff(self):
-        self.grov[self.com_prtcl].Tor4ButtonSet(0)
+        self.grov[self.com_prtcl].setRolicamReset(0)
 
     def filterResetOn(self):
-        self.grov[self.com_prtcl].filterResetSet(1)
+        self.grov[self.com_prtcl].setFilterReset(1)
 
     def filterResetOff(self):
-        self.grov[self.com_prtcl].filterResetSet(0)
+        self.grov[self.com_prtcl].setFilterReset(0)
 
     def getValues(self):
 
