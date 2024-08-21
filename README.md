@@ -8,5 +8,5 @@ This is a team named "G-Rov"'s auv (autonomous underwater vehicle) remote operat
 **MadgwickAHRS.h:** https://github.com/arduino-libraries/MadgwickAHRS/<br>
 **Base.h:** https://github.com/viyalab/Base100<br>
 
-<h3>Python Libraries:<h3>
-You can upload the Python libraries with using "requirements.txt" file
+<h3>Python Libraries:</h3>h3>
+You can upload the Python libraries with using "requirements.txt" file.
