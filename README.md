@@ -27,4 +27,10 @@ cd pyswd
 sudo python3 setup.py install
 ```
 
+## G-Rov PCB Card:
+
+**Front:**
 <img src="grov_pcb_card/grov_pcb_card_front.png" alt="Connections tab" width="300"/>
+
+**Back:**
+<img src="grov_pcb_card/grov_pcb_card_back.png" alt="Connections tab" width="300"/>
