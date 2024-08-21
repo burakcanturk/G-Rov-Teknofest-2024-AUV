@@ -7,3 +7,5 @@ Arduino IDE Libraries:<br>
 **MPU6050_tockn.h:** https://github.com/tockn/MPU6050_tockn<br>
 **MadgwickAHRS.h:** https://github.com/arduino-libraries/MadgwickAHRS/<br>
 **Base.h:** https://github.com/viyalab/Base100<br>
+
+Python Libraries:<br>
