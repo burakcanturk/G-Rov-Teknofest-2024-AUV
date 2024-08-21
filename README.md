@@ -27,4 +27,4 @@ cd pyswd
 sudo python3 setup.py install
 ```
 
-<img src="tree/main/grov_pcb_card/grov_pcb_card_front.png" alt="Connections tab" width="300"/>
+<img src="grov_pcb_card/grov_pcb_card_front.png" alt="Connections tab" width="300"/>
