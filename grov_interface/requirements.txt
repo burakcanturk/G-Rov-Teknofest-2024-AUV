@@ -1,0 +1,4 @@
+pyserial
+swd
+PyQt5
+ultralytics
