@@ -12,6 +12,7 @@ This is a team named "G-Rov"s auv (autonomous underwater vehicle) remote operati
 You can upload the Python libraries with using "requirements.txt" file.<br>
 **Warning:** You must upload Python libraries to the Jetson Xavier Nx. So you can use the program in this computer.
 ```
+cd grov_interface
 pip3 install -r requirements.txt
 ```
 You could get an error during install PyQt5 and PySwd. So here their the installition codes.<br>
